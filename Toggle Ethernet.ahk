@@ -1,4 +1,4 @@
-#a::
+^!q::
 adapter:="Ethernet" ; set to the adapter name
 
 If ConnectedToInternet()
