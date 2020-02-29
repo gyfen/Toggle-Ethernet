@@ -9,11 +9,10 @@ _You can also make a shortcut that alsways runs with admin privileges. Right cli
 ***
 **Usage**
 
-Use the key combination **WINKEY + A** to toggle your ethernet connection.
+Use the key combination **CRTL + ALT + Q** to toggle your ethernet connection.
 
 I included the .ahk script, but you don't need to use that unless you want to make changes or something.
 
 If you just want to use it, double-click the .exe and you're set! No need to install AutoHotKey.
 
 -Gyfen
-
