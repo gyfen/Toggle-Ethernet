@@ -4,7 +4,7 @@
 
 _You need to run this as administrator, or it won't work! To do so, right click the .exe and click "Run as administrator"._
 
-_You can also make a shortcut that alsways runs with admin privileges. Right click, properties, advanced, run as administrator._
+_You can also make a shortcut that alsways runs with admin privileges. Right click > properties > advanced > run as administrator._
 
 ***
 **Usage**
